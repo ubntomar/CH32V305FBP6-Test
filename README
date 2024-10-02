@@ -38,7 +38,7 @@ The CH32V305FBP6-Test example showcases how to read data from the ADC, transmit 
     - Parity: None
     - Stop bits: 1
 2. Reset the development board.
-3. Observe the ADC data being transmitted via UART and stored in the flash memory.
+3. Observe the ADC data being transmitted via UART.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
